@@ -14,5 +14,4 @@
 
 ## 删除远程分支
 `git push origin --delete [branch-name]`
-
-`git branch [remote/branch]`
+`git branch -dr [remote/branch]`
